@@ -24,7 +24,6 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4 text-white">Contact</h3>
             <ul className="space-y-3 text-gray-400">
-              <li>Email: pedro.lopes@heineken.com.br</li>
               <li>Address: R. Olimpíadas, 205 - Itaim Bibi, São Paulo - SP, 04546-004</li>
             </ul>
           </div>
