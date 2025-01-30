@@ -23,7 +23,7 @@ export function Header() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
             <Star className="h-8 w-8 text-red-500" />
-            <span className="ml-2 text-xl font-bold text-gray-800">Heineken Brasil</span>
+            <span className="ml-2 text-xl font-bold text-gray-800">Testttttt</span>
           </Link>
 
           {/* Desktop Menu */}
